@@ -1,6 +1,18 @@
 # jeson
 Jeson Mor game engine. Pure &amp; free from side-effects.
 
+## What is Jeson Mor?
+
+<p align="center">
+  <img src="https://github.com/Forensor/jeson/blob/master/img/board.png" />
+</p>
+
+Jeson Mor (Nine Horses) is a two-player strategy board game from Mongolia played on a 9×9 checkered gameboard. Each player has nine chess knights initially lined up on the first ranks. A player wins by being first to occupy the central square (red circle above) with a knight, and then leave that square. Knights move as in normal chess (see below).
+
+<p align="center">
+  <img src="https://github.com/Forensor/jeson/blob/master/img/movement.png" />
+</p>
+
 ## Docs
 
 fen -> Returns the fen of the current position<br>
